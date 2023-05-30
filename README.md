@@ -1,6 +1,7 @@
 <div align="center">
-### Hi there 👋
-About Me
+<h3> Hi there 👋 <h3/>
+  
+<div> About Me <div/>
 
 Hello I'm Seungjun LEE.
 
