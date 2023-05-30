@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![jun0811's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun0811&show_icons=true&theme=dark)   
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nate21)](https://solved.ac/nate21)
 
