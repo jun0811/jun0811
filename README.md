@@ -1,5 +1,10 @@
+<div align="center">
 ### Hi there 👋
+About Me
 
+Hello I'm Seungjun LEE.
+
+I'm Front-End Developer :)
 <!--
 **jun0811/jun0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +24,4 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nate21)](https://solved.ac/nate21)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun0811&theme=dark)
+<div/>
